@@ -20,5 +20,4 @@ class Dog
   end
 end
 
-fido.breed = "mutt"
-end
+
