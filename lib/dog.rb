@@ -21,3 +21,4 @@ class Dog
 end
 
 .breed = "mutt"
+end
