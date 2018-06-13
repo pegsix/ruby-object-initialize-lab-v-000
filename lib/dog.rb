@@ -20,5 +20,5 @@ class Dog
   end
 end
 
-.breed = "mutt"
+fido.breed = "mutt"
 end
